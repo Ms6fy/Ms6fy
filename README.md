@@ -1,6 +1,5 @@
 # Professional GitHub README
 
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Mostafa%20Mahmoud&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Cloud%20Security%20Engineer%20|%20Cybersecurity%20Student&descAlignY=60&animation=fadeIn" width="100%"/>
